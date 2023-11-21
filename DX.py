@@ -1,6 +1,6 @@
 # Decompile by  DX AJMIR 
 # TiNAHID Succes decompile : 2023-11-21 07:12:43.005122
-import os,sys,tiNAHID,json,random,re,string,platform,base64,uuid
+import os,sys,tiAJMIR,json,random,re,string,platform,base64,uuid
 os.system("git pull")
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
